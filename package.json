@@ -1,0 +1,15 @@
+{
+  "name": "probackend",
+  "version": "1.0.0",
+  "description": "a pro backend code by MM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MM",
+    "javascript"
+  ],
+  "author": "MM",
+  "license": "ISC"
+}
