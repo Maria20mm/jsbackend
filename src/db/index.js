@@ -11,8 +11,6 @@ try{
 console.log(`/n MONGODB is connected!! DB Host : ${connectionInstance.connection.host}`)
 
 
-
-
 }
 
 
